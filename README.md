@@ -2,16 +2,6 @@
 
 **MaskedEmbeddingLLM** is a project that explores the effects of masking token embeddings during the training of a straightforward decoder-only Language Model (LLM). By selectively masking embeddings, the project aims to understand how such interventions impact the learning dynamics and performance of LLMs.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results and Analysis](#results-and-analysis)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 In natural language processing, token embeddings play a crucial role in capturing semantic information. This project investigates how masking these embeddings during training affects the behavior and efficacy of decoder-only LLMs. The insights gained can contribute to a deeper understanding of model robustness and generalization.
